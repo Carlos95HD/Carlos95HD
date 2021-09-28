@@ -6,8 +6,8 @@
 ## 🙋‍♂️ Acerca de mi
  Soy estudiante en programación. Apasionado por la tecnología, me gusta estar en constante crecimiento en el área del desarrollo web.
 
-- 🔨 Estoy trabajando en mi web (Portfolio).
-- 🌱 Estoy aprendiendo [Python](https://www.python.org/) y [Django](https://www.djangoproject.com/).
+- 🔨 Estoy trabajando en mi web (Portfolio)
+- 🌱 Estoy aprendiendo ⚛️[React](https://es.reactjs.org/)
 
 </br>
 
