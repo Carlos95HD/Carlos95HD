@@ -6,8 +6,9 @@
 ## 🙋‍♂️ Acerca de mi
  Soy estudiante en programación. Apasionado por la tecnología, me gusta estar en constante crecimiento en el área del desarrollo web.
 
-- 🔨 Estoy trabajando en mi web (Portfolio)
-- 🌱 Estoy aprendiendo ⚛️[React](https://es.reactjs.org/)
+Actualmente me encuentro:
+- 🔨 Trabajando en mi web (Portfolio).
+- 🎓 Estudiando en el [Informatorio](https://empleo.chaco.gob.ar/informatorio) + ⚛️[React](https://es.reactjs.org/).
 
 </br>
 
