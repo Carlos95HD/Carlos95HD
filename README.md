@@ -37,7 +37,7 @@ Actualmente me encuentro:
 
 ## 📌Contáctame
 
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='instagram' height='39'>](https://www.instagram.com/hernan7c/)
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='instagram' height='40'>](https://www.linkedin.com/in/carlos-deasi/)
 [<img src='https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-web-business-tools-soft-fill-soft-fill-juicy-fish.png' alt='portfolio' height='40'>](https://deasiportfolio.netlify.app/)
 
 </br>
