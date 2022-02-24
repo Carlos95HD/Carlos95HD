@@ -7,7 +7,7 @@
  Soy estudiante en programación. Apasionado por la tecnología, me gusta estar en constante crecimiento en el área del desarrollo web.
 
 Actualmente me encuentro:
-- 🎓 Aprendiendo ⚛️[React](https://es.reactjs.org/)
+- 🔨 Desarrollando en ⚛️[React](https://es.reactjs.org/)
 
 </br>
 
@@ -37,9 +37,8 @@ Actualmente me encuentro:
 
 ## 📌Contáctame
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Carlos95HD)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hernan7c/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='40'>](https://deasiportfolio.netlify.app/)
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='instagram' height='39'>](https://www.instagram.com/hernan7c/)
+[<img src='https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-web-business-tools-soft-fill-soft-fill-juicy-fish.png' alt='portfolio' height='40'>](https://deasiportfolio.netlify.app/)
 
 </br>
 
