@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="175px" src="img1.svg" height="175px"/></a>
 
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, mi nombre es Carlos.</h1>
+<h1 align="center">Hola bienvenido, mi nombre es Carlos.</h1>
 <h3 align="center">Front-end Developer</h3>
 
 ## 🙋‍♂️ Acerca de mi
